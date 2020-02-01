@@ -6,3 +6,4 @@ If anyone get helped reading this It would be grateful for me
 
 ## Links
 - ![data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
+- ![Deep learing by stanford](https://stanford.edu/~shervine/teaching/cs-230/)
