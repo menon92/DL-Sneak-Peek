@@ -12,3 +12,4 @@ If anyone get helped reading this It would be grateful for me
 - [tf-keras-rnn-ctc-example](https://chadrick-kwag.net/tf-keras-rnn-ctc-example/)
 - [MIT deep learning lecture](http://introtodeeplearning.com/)
 - [হাতেকলমে পাইথন ডিপ লার্নিং](https://github.com/raqueeb)
+- [Tensorboard guide for tensorflow 1.x](https://medium.com/analytics-vidhya/basics-of-using-tensorboard-in-tensorflow-1-2-b715b068ac5a)
