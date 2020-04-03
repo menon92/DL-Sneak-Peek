@@ -18,3 +18,7 @@ If anyone get helped reading this It would be grateful for me
 ## ML data visualization
 
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
+
+## RNN's 
+
+- [The Attention Mechanism](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
