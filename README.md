@@ -21,3 +21,4 @@ If anyone get helped reading this It would be grateful for me
 ## RNN's 
 - [A friendly introduction to Recurrent Neural Networks](https://youtu.be/UNmqTiOnRfg)
 - [The Attention Mechanism](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
+- [attention-mechanism](https://blog.floydhub.com/attention-mechanism/)
