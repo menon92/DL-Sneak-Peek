@@ -16,9 +16,8 @@ If anyone get helped reading this It would be grateful for me
 - [Kaggle free data science course](https://www.kaggle.com/learn/overview)
 
 ## ML data visualization
-
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
 
 ## RNN's 
-
+- [A friendly introduction to Recurrent Neural Networks](https://youtu.be/UNmqTiOnRfg)
 - [The Attention Mechanism](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
