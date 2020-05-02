@@ -23,6 +23,9 @@ If anyone get helped reading this It would be grateful for me
 - [The Attention Mechanism](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 - [attention-mechanism](https://blog.floydhub.com/attention-mechanism/)
 
+## NLP
+- [Building models with tf.text (TF World '19)](https://youtu.be/iu_OSAg5slY)
+
 ## Notebooks
 - [Intro to keras for engineers](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve)
 - [Intro to keras for researchers](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia)
