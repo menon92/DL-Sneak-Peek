@@ -6,3 +6,4 @@
 - [Text classification colab to make it start from a set of raw text files](https://t.co/nzcAVKnMhl?amp=1)
 - [obtain the class activation heatmap for an image classification model in Keras](https://t.co/sioWHRo8Sc?amp=1)
 - [Endpoint Layer" pattern in Kera](https://t.co/dhYFKeemnC?amp=1)
+- [TextVectorization in tf.keras](https://t.co/nzcAVKnMhl?amp=1)
