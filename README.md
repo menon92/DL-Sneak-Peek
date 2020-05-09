@@ -25,6 +25,7 @@ If anyone get helped reading this It would be grateful for me
 
 ## NLP
 - [Building models with tf.text (TF World '19)](https://youtu.be/iu_OSAg5slY)
+- [Natural Language Processing (NLP) Zero to Hero - Play list](https://goo.gle/nlp-z2h)
 
 ## Notebooks
 - [Intro to keras for engineers](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve)
