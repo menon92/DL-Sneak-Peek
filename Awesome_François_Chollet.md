@@ -14,3 +14,5 @@
 - [Most mordrn way to implement GAN](https://t.co/j1IunKPYrC?amp=1)
 - ["intro to Keras for engineers" notebook](https://t.co/5Yoe4c7YaM?amp=1)
 - [introduction to what TF 2.0 has to offer](https://t.co/k694J95PI8?amp=1)
+- [Intro to keras for researchers](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia)
+- [Tensorflow Best practics](https://t.co/3cWiQltnuZ?amp=1)
