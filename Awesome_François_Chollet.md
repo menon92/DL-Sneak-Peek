@@ -13,3 +13,4 @@
 - [Train SVM using keras](https://t.co/oh36gZiXbW?amp=1)
 - [Most mordrn way to implement GAN](https://t.co/j1IunKPYrC?amp=1)
 - ["intro to Keras for engineers" notebook](https://t.co/5Yoe4c7YaM?amp=1)
+- [introduction to what TF 2.0 has to offer](https://t.co/k694J95PI8?amp=1)
