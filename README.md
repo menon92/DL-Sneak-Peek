@@ -18,7 +18,11 @@ If anyone get helped reading this It would be grateful for me
 ## ML data visualization
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
 
-## RNN's 
+## CNN
+- [Implement various CNN youtube playlist by MIT](https://t.co/RIbME80e06?amp=1)
+- [CNN Architectures - implementations | MLT](https://github.com/Machine-Learning-Tokyo/CNN-Architectures/tree/master/Implementations)
+
+## RNN
 - [A friendly introduction to Recurrent Neural Networks](https://youtu.be/UNmqTiOnRfg)
 - [The Attention Mechanism](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 - [attention-mechanism](https://blog.floydhub.com/attention-mechanism/)
