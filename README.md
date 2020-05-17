@@ -31,6 +31,7 @@ If anyone get helped reading this It would be grateful for me
 
 ## Bangla ML/DL resoruce:
 - [হাতেকলমে পাইথন ডিপ লার্নিং](https://github.com/raqueeb)
+- [বাংলায় মেশিন লার্নিং](https://ml.howtocode.com.bd/)
 
 ## Links
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
