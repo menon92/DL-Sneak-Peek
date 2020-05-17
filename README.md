@@ -14,6 +14,7 @@ If anyone get helped reading this It would be grateful for me
 - [হাতেকলমে পাইথন ডিপ লার্নিং](https://github.com/raqueeb)
 - [Tensorboard guide for tensorflow 1.x](https://medium.com/analytics-vidhya/basics-of-using-tensorboard-in-tensorflow-1-2-b715b068ac5a)
 - [Kaggle free data science course](https://www.kaggle.com/learn/overview)
+- [Keras debugging tips](https://keras.io/examples/keras_recipes/debugging_tips/)
 
 ## ML data visualization
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
