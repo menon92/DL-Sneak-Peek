@@ -3,6 +3,13 @@ I try to explain various important terms of deep learning and machine learning.
 I will write this sort of tutorial for helping myself to build a clear understanding. 
 If anyone get helped reading this It would be grateful for me
 
+### Index
+|                             Topic                               | Git notebook           |  Colab           |
+|-----------------------------------------------------------------| ------------           |------------------|
+| টেন্সরফ্লোর প্রথমিক ধারনা, টেন্সর, ম্যাথ অপারেশন                               | [link](bit.ly/2zJXB8c) |           -      |
+| গ্রাডিয়েন্ট-টেপ, Higher-Order Derivatives, গ্রাডিয়েন্ট-টেপের কিছু বিশেষ ব্যবহার    | [link](bit.ly/2zJXB8c) |          -       |
+| লিনিয়ার রিগ্রেসন, প্লট লার্নিং গ্রাফ                                         | [link](bit.ly/2zJXB8c)  |        -         |
+       
 ### ML data visualization
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
 - [Tensorboard guide for tensorflow 1.x](https://medium.com/analytics-vidhya/basics-of-using-tensorboard-in-tensorflow-1-2-b715b068ac5a)
