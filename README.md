@@ -40,6 +40,7 @@ If anyone get helped reading this It would be grateful for me
 
 ### Bangla ML/DL resoruce:
 - [হাতেকলমে পাইথন ডিপ লার্নিং](https://github.com/raqueeb)
+- [সহজ বাংলায় 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং (এনএলপি)](https://github.com/raqueeb/nlp_bangla)
 - [বাংলায় মেশিন লার্নিং](https://ml.howtocode.com.bd/)
 - [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.com.bd/)
 - [বাংলায় ব্যাসিক ডাটা সায়েন্স শেখার কোর্স](https://ds.howtocode.com.bd/)
