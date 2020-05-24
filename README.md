@@ -17,6 +17,7 @@ If anyone get helped reading this It would be grateful for me
 - [Tensorboard guide for tensorflow 1.x](https://medium.com/analytics-vidhya/basics-of-using-tensorboard-in-tensorflow-1-2-b715b068ac5a)
 
 ### CNN
+- [Machine Learning Foundations by google developer playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV)
 - [Implement various CNN youtube playlist by MIT](https://t.co/RIbME80e06?amp=1)
 - [CNN Architectures - implementations | MLT](https://github.com/Machine-Learning-Tokyo/CNN-Architectures/tree/master/Implementations)
 
