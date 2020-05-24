@@ -38,7 +38,7 @@ If anyone get helped reading this It would be grateful for me
 - [MIT deep learning lecture](http://introtodeeplearning.com/)
 - [Kaggle free data science course](https://www.kaggle.com/learn/overview)
 
-### Bangla ML/DL resoruce:
+### Bangla ML/DL resource:
 - [হাতেকলমে পাইথন ডিপ লার্নিং](https://github.com/raqueeb)
 - [সহজ বাংলায় 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং (এনএলপি)](https://github.com/raqueeb/nlp_bangla)
 - [বাংলায় মেশিন লার্নিং](https://ml.howtocode.com.bd/)
