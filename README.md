@@ -46,6 +46,10 @@ If anyone get helped reading this It would be grateful for me
 - [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.com.bd/)
 - [বাংলায় ব্যাসিক ডাটা সায়েন্স শেখার কোর্স](https://ds.howtocode.com.bd/)
 
+### Hyper params tunes
+- [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
+- [Determining optimal batch size](https://towardsdatascience.com/how-to-break-gpu-memory-boundaries-even-with-large-batch-sizes-7a9c27a400ce)
+
 ### Links
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
 - [37-reasons-why-your-neural-network-is-not-working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
