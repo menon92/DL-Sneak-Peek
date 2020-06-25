@@ -2,15 +2,26 @@
 I try to explain various important terms of deep learning and machine learning. 
 I will write this sort of tutorial for helping myself to build a clear understanding. 
 If anyone get helped reading this It would be grateful for me
+
+### Deep learning (`Basics`)
 |Part|                             Topic                            | Git |  Colab |
 |--- |--------------------------------------------------------------|---- |--------|
 |01| টেন্সরফ্লোর প্রথমিক ধারনা, টেন্সর, কিছু ম্যাথ অপারেশন  | [link](https://bit.ly/2zJXB8c) |-|
 |02| গ্রাডিয়েন্ট-টেপ, হাইয়ার অডার ডেরিভেটিভ , গ্রাডিয়েন্ট-টেপের কিছু বিশেষ ব্যবহার | [link](https://bit.ly/2TbzuWX) |-|
 |03| লিনিয়ার রিগ্রেসন, প্লট লার্নিং কার্ভ | [link](https://bit.ly/3e12SXX) |-|
-|04| ইমেজ ডাটা লোডিং, ফ্লাওয়ার ডাটাসেট, প্লট ইমেজ | [link](https://bit.ly/2Zg5UDA) | [colab](https://bit.ly/2WEzPUe)|
-|05| ইমেজ ডাটা পাইপলাইন, Keras ImageDataGenerator, ওয়ান-হট এনকোডিং|[link](https://bit.ly/2Xbf95n)|[colab](https://bit.ly/2ygaeHO)|
-|06| ইমেজ ডাটা পাইপলাইন, tf.data , map ফাংশনের ব্যাবহার| [link](https://bit.ly/2yYIIz1) | [colab](https://bit.ly/2AF3zYy) | 
-|07|tf.data ও ImageDataGenerator এর মধ্যে তুলনা, ট্রেনিং টাইম স্পীড আপ করা, ডাটা ক্যাশিং|[link](https://bit.ly/2yYIYht)|[colab](https://bit.ly/2ZqZzW3)
+### Deep learning (`Computer vision`)
+|Part|                             Topic                            | Git |  Colab |
+|--- |--------------------------------------------------------------|---- |--------|
+|01| ইমেজ ডাটা লোডিং, ফ্লাওয়ার ডাটাসেট, প্লট ইমেজ | [link](https://bit.ly/2Zg5UDA) | [colab](https://bit.ly/2WEzPUe)|
+|02| ইমেজ ডাটা পাইপলাইন, Keras ImageDataGenerator, ওয়ান-হট এনকোডিং|[link](https://bit.ly/2Xbf95n)|[colab](https://bit.ly/2ygaeHO)|
+|03| ইমেজ ডাটা পাইপলাইন, tf.data , map ফাংশনের ব্যাবহার| [link](https://bit.ly/2yYIIz1) | [colab](https://bit.ly/2AF3zYy) | 
+|04|tf.data ও ImageDataGenerator এর মধ্যে তুলনা, ট্রেনিং টাইম স্পীড আপ করা, ডাটা ক্যাশিং|[link](https://bit.ly/2yYIYht)|[colab](https://bit.ly/2ZqZzW3)
+
+### Deep learning (`NLP`)
+|Part|                             Topic                            |Git   |Colab    |
+|--- |--------------------------------------------------------------|:----:|:--------:|
+|01|টোকেনাইজার কি এবং এটার বিভিন্ন প্রয়োগ | [git notebook](https://bit.ly/37ZfQUc) |[colab notebook](https://bit.ly/31bh51g) |
+|02|টোকেনাইজার এর আরও কিছু ব্যবহার | [git notebook](https://bit.ly/2YwK79J) |[colab notebook](https://bit.ly/3exnsjn) |
 
 ### ML data visualization
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
