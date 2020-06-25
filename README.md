@@ -9,6 +9,8 @@ If anyone get helped reading this It would be grateful for me
 |01| টেন্সরফ্লোর প্রথমিক ধারনা, টেন্সর, কিছু ম্যাথ অপারেশন  | [link](https://bit.ly/2zJXB8c) |-|
 |02| গ্রাডিয়েন্ট-টেপ, হাইয়ার অডার ডেরিভেটিভ , গ্রাডিয়েন্ট-টেপের কিছু বিশেষ ব্যবহার | [link](https://bit.ly/2TbzuWX) |-|
 |03| লিনিয়ার রিগ্রেসন, প্লট লার্নিং কার্ভ | [link](https://bit.ly/3e12SXX) |-|
+|04| সফটম্যাক্স ফাংশন কি এবং কেন কাজ করে | [link](https://bit.ly/3i3YwBU) | - |
+
 ### Deep learning (`Computer vision`)
 |Part|                             Topic                            | Git |  Colab |
 |--- |--------------------------------------------------------------|---- |--------|
