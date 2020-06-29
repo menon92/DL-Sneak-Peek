@@ -1,0 +1,5 @@
+- [ ] Mixed precession
+- [ ] Embedeings in NLP
+- [ ] Define network using subclass in keras
+- [ ] Flower photos classification using transfer learnign
+- [ ] Implement speech command using tensorflow 2x
