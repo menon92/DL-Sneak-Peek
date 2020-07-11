@@ -71,4 +71,5 @@ If anyone get helped reading this It would be grateful for me
 - [Keras debugging tips](https://keras.io/examples/keras_recipes/debugging_tips/)
 - [TF2 mixed presition training speed up](https://github.com/sayakpaul/Mixed-Precision-Training-in-tf.keras-2.0/tree/master/With_Policy)
 - [Effect of activation fucntion](https://www.youtube.com/watch?v=s-V7gKrsels)
+- [tf2 object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 
