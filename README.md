@@ -48,6 +48,8 @@ If anyone get helped reading this It would be grateful for me
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
 ### ML/DL course
+- [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+- [Software engineering with ML (udacity)](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
 - [Deep learing by stanford](https://stanford.edu/~shervine/teaching/cs-230/)
 - [MIT deep learning lecture](http://introtodeeplearning.com/)
 - [Kaggle free data science course](https://www.kaggle.com/learn/overview)
