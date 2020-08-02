@@ -18,6 +18,7 @@ If anyone get helped reading this It would be grateful for me
 |02| ইমেজ ডাটা পাইপলাইন, Keras ImageDataGenerator, ওয়ান-হট এনকোডিং|[link](https://bit.ly/2Xbf95n)|[colab](https://bit.ly/2ygaeHO)|
 |03| ইমেজ ডাটা পাইপলাইন, tf.data , map ফাংশনের ব্যাবহার| [link](https://bit.ly/2yYIIz1) | [colab](https://bit.ly/2AF3zYy) | 
 |04|tf.data ও ImageDataGenerator এর মধ্যে তুলনা, ট্রেনিং টাইম স্পীড আপ করা, ডাটা ক্যাশিং|[link](https://bit.ly/2yYIYht)|[colab](https://bit.ly/2ZqZzW3)
+|05|ইমেজ ডাটা পাইপলাইন tf.keras.utils.Sequence|[link](https://github.com/menon92/DL-Sneak-Peek/blob/master/image_data_pipeline_using_Sequence_class.ipynb)|[colab](https://colab.research.google.com/drive/12ACmzAawasOq_lEJU23s0DatOe8Qx9W2?usp=sharing)|
 
 ### Deep learning (`NLP`)
 |Part|                             Topic                            |Git   |Colab    |
