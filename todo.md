@@ -1,7 +1,7 @@
 - [ ] Mixed precession
 - [ ] Embedeings in NLP
 - [ ] Bangla Sentiment analysis
-- [ ] Define network using subclass in keras
+- [x] Define network using subclass in keras
 - [ ] Flower photos classification using transfer learnign
 - [ ] Implement speech command using tensorflow 2x
 - [ ] https://github.com/abhishekkrthakur/bert-entity-extraction
