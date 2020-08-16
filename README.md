@@ -67,6 +67,10 @@ If anyone get helped reading this It would be grateful for me
 - [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
 - [Determining optimal batch size](https://towardsdatascience.com/how-to-break-gpu-memory-boundaries-even-with-large-batch-sizes-7a9c27a400ce)
 
+### Machine learning in production
+- [Rules of ML by google](https://developers.google.com/machine-learning/guides/rules-of-ml)
+- [5 Steps to take your model in production](https://towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c)
+
 ### Links
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
 - [37-reasons-why-your-neural-network-is-not-working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
@@ -76,5 +80,4 @@ If anyone get helped reading this It would be grateful for me
 - [TF2 mixed presition training speed up](https://github.com/sayakpaul/Mixed-Precision-Training-in-tf.keras-2.0/tree/master/With_Policy)
 - [Effect of activation fucntion](https://www.youtube.com/watch?v=s-V7gKrsels)
 - [tf2 object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
-- [5 Steps to take your model in production](https://towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c)
 
