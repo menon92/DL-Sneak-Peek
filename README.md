@@ -76,4 +76,5 @@ If anyone get helped reading this It would be grateful for me
 - [TF2 mixed presition training speed up](https://github.com/sayakpaul/Mixed-Precision-Training-in-tf.keras-2.0/tree/master/With_Policy)
 - [Effect of activation fucntion](https://www.youtube.com/watch?v=s-V7gKrsels)
 - [tf2 object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+- [5 Steps to take your model in production](https://towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c)
 
