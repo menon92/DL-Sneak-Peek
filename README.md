@@ -70,6 +70,8 @@ If anyone get helped reading this It would be grateful for me
 ### Machine learning in production
 - [Rules of ML by google](https://developers.google.com/machine-learning/guides/rules-of-ml)
 - [5 Steps to take your model in production](https://towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c)
+- [Building the Software 2 0 Stack (Andrej Karpathy)](https://www.youtube.com/watch?v=y57wwucbXR8&t=83s)
+- [PyTorch developer conference software 2.0](https://www.youtube.com/watch?v=KJAnSyB6mME)
 
 ### Links
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
