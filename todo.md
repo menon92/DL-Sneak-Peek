@@ -1,5 +1,7 @@
 - [ ] Mixed precession
 - [ ] Embedeings in NLP
+- [ ] Text classification
+- [ ] Text classification using pretrain model
 - [ ] Bangla Sentiment analysis
 - [x] Define network using subclass in keras
 - [ ] Flower photos classification using transfer learnign
