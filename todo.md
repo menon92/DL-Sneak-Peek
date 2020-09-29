@@ -8,3 +8,4 @@
 - [ ] Implement speech command using tensorflow 2x
 - [ ] https://github.com/abhishekkrthakur/bert-entity-extraction
 - [ ] https://github.com/keras-team/keras-tuner
+- [ ] https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
