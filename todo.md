@@ -9,3 +9,4 @@
 - [ ] https://github.com/abhishekkrthakur/bert-entity-extraction
 - [ ] https://github.com/keras-team/keras-tuner
 - [ ] https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
+- [ ] https://www.tensorflow.org/tutorials/keras/keras_tuner
