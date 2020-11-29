@@ -55,6 +55,7 @@ If anyone get helped reading this It would be grateful for me
 - [Deep learing by stanford](https://stanford.edu/~shervine/teaching/cs-230/)
 - [MIT deep learning lecture](http://introtodeeplearning.com/)
 - [Kaggle free data science course](https://www.kaggle.com/learn/overview)
+- [Drive into deep learning, d2l.ai](http://d2l.ai/index.html)
 
 ### Bangla ML/DL resource:
 - [হাতেকলমে পাইথন ডিপ লার্নিং](https://github.com/raqueeb)
