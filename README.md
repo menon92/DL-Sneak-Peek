@@ -67,6 +67,7 @@ If anyone get helped reading this It would be grateful for me
 ### Hyper params tunes
 - [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
 - [Determining optimal batch size](https://towardsdatascience.com/how-to-break-gpu-memory-boundaries-even-with-large-batch-sizes-7a9c27a400ce)
+- [Hyperparameter Importance | PyTorch Developer Day 2020](https://www.youtube.com/watch?v=jaPVoObpdO0&t=11515s)
 
 ### Machine learning in production
 - [Rules of ML by google](https://developers.google.com/machine-learning/guides/rules-of-ml)
