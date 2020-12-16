@@ -76,7 +76,7 @@ If anyone get helped reading this It would be grateful for me
 - [Building the Software 2 0 Stack (Andrej Karpathy)](https://www.youtube.com/watch?v=y57wwucbXR8&t=83s)
 - [Engineering Practices for Software 2.0](https://www.youtube.com/watch?v=KJAnSyB6mME)
 
-### Links
+### Other links
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
 - [37-reasons-why-your-neural-network-is-not-working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 - [https://cs231n.github.io/](https://cs231n.github.io/)
@@ -85,4 +85,6 @@ If anyone get helped reading this It would be grateful for me
 - [TF2 mixed presition training speed up](https://github.com/sayakpaul/Mixed-Precision-Training-in-tf.keras-2.0/tree/master/With_Policy)
 - [Effect of activation fucntion](https://www.youtube.com/watch?v=s-V7gKrsels)
 - [tf2 object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+- [Eat tensorlfow in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
+- [Tensorflow examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
