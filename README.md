@@ -87,4 +87,5 @@ If anyone get helped reading this It would be grateful for me
 - [tf2 object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 - [Eat tensorlfow in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 - [Tensorflow examples](https://github.com/aymericdamien/TensorFlow-Examples)
+- [TensorFlow Fall 2020 updates: Keynote & what’s new since TF2.2](https://www.youtube.com/watch?v=bUCciKeVx60&t=1395s)
 
