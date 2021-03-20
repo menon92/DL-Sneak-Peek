@@ -6,26 +6,26 @@ If anyone get helped reading this It would be grateful for me
 ### Deep learning (`Basics`)
 |Part|                             Topic                            | Git |  Colab |
 |--- |--------------------------------------------------------------|---- |--------|
-|01| টেন্সরফ্লোর প্রথমিক ধারনা, টেন্সর, কিছু ম্যাথ অপারেশন  | [link](https://bit.ly/2zJXB8c) |-|
-|02| গ্রাডিয়েন্ট-টেপ, হাইয়ার অডার ডেরিভেটিভ , গ্রাডিয়েন্ট-টেপের কিছু বিশেষ ব্যবহার | [link](https://bit.ly/2TbzuWX) |-|
-|03| লিনিয়ার রিগ্রেসন, প্লট লার্নিং কার্ভ | [link](https://bit.ly/3e12SXX) |-|
-|04| সফটম্যাক্স ফাংশন কি এবং কেন কাজ করে | [link](https://bit.ly/3i3YwBU) | - |
+|01| টেন্সরফ্লোর প্রথমিক ধারনা, টেন্সর, কিছু ম্যাথ অপারেশন  | [link](./basics/dl_basics_part_1.ipynb) | x |
+|02| গ্রাডিয়েন্ট-টেপ, হাইয়ার অডার ডেরিভেটিভ , গ্রাডিয়েন্ট-টেপের কিছু বিশেষ ব্যবহার | [link](./basics/dl_basics_part_2.ipynb) | x |
+|03| লিনিয়ার রিগ্রেসন, প্লট লার্নিং কার্ভ | [link](./basics/dl_basics_part_3.ipynb) | x |
+|04| সফটম্যাক্স ফাংশন কি এবং কেন কাজ করে | [link](./basics/dl_basics_part_4.ipynb) | x |
 
 ### Deep learning (`Computer vision`)
 |Part|                             Topic                            | Git |  Colab |
 |--- |--------------------------------------------------------------|---- |--------|
-|01| ইমেজ ডাটা লোডিং, ফ্লাওয়ার ডাটাসেট, প্লট ইমেজ | [link](https://bit.ly/2Zg5UDA) | [colab](https://bit.ly/2WEzPUe)|
-|02| ইমেজ ডাটা পাইপলাইন, Keras ImageDataGenerator, ওয়ান-হট এনকোডিং|[link](https://bit.ly/2Xbf95n)|[colab](https://bit.ly/2ygaeHO)|
-|03| ইমেজ ডাটা পাইপলাইন, tf.data , map ফাংশনের ব্যাবহার| [link](https://bit.ly/2yYIIz1) | [colab](https://bit.ly/2AF3zYy) | 
-|04|tf.data ও ImageDataGenerator এর মধ্যে তুলনা, ট্রেনিং টাইম স্পীড আপ করা, ডাটা ক্যাশিং|[link](https://bit.ly/2yYIYht)|[colab](https://bit.ly/2ZqZzW3)
-|05|ইমেজ ডাটা পাইপলাইন tf.keras.utils.Sequence|![link](./image_data_pipeline_using_Sequence_class.ipynb)|[colab](https://colab.research.google.com/drive/12ACmzAawasOq_lEJU23s0DatOe8Qx9W2?usp=sharing)|
-|07|ফ্লাওয়ার ইমেজ ক্লাসিফিকেশন, সাবক্লাস মডেল, tf.keras.utils.Sequence|![link](./train_image_classifire_from_scratch_using_subclass_model.ipynb)|[colab](https://colab.research.google.com/drive/11f0B03QGshbNCiUhmrlYggxoqfx1qkfk?usp=sharing)|
+|01| ইমেজ ডাটা লোডিং, ফ্লাওয়ার ডাটাসেট, প্লট ইমেজ | [link](./vision/dl_computer_vision_part_1.ipynb) | [colab](https://bit.ly/2WEzPUe)|
+|02| ইমেজ ডাটা পাইপলাইন, Keras ImageDataGenerator, ওয়ান-হট এনকোডিং | [link](./vision/dl_computer_vision_part_2.ipynb)|[colab](https://bit.ly/2ygaeHO)|
+|03| ইমেজ ডাটা পাইপলাইন, tf.data , map ফাংশনের ব্যাবহার | [link](./vision/dl_computer_vision_part_3.ipynb) | [colab](https://bit.ly/2AF3zYy) | 
+|04| tf.data ও ImageDataGenerator এর মধ্যে তুলনা, ট্রেনিং টাইম স্পীড আপ করা, ডাটা ক্যাশিং | [link](./vision/dl_computer_vision_part_4.ipynb)|[colab](https://bit.ly/2ZqZzW3)
+|05| ইমেজ ডাটা পাইপলাইন tf.keras.utils.Sequence | [link](./vision/dl_computer_vision_part_5.ipynb) | [colab](https://colab.research.google.com/drive/12ACmzAawasOq_lEJU23s0DatOe8Qx9W2?usp=sharing)|
+|07| ফ্লাওয়ার ইমেজ ক্লাসিফিকেশন, সাবক্লাস মডেল, tf.keras.utils.Sequence | ![link](./vision/dl_computer_vision_part_6.ipynb)|[colab](https://colab.research.google.com/drive/11f0B03QGshbNCiUhmrlYggxoqfx1qkfk?usp=sharing)|
 
 ### Deep learning (`NLP`)
 |Part|                             Topic                            |Git   |Colab    |
 |--- |--------------------------------------------------------------|:----:|:--------:|
-|01|টোকেনাইজার কি এবং এটার বিভিন্ন প্রয়োগ | [git notebook](https://bit.ly/37ZfQUc) |[colab notebook](https://bit.ly/31bh51g) |
-|02|টোকেনাইজার এর আরও কিছু ব্যবহার | [git notebook](https://bit.ly/2YwK79J) |[colab notebook](https://bit.ly/3exnsjn) |
+|01|টোকেনাইজার কি এবং এটার বিভিন্ন প্রয়োগ | [link](./nlp/drive_into_tokenizer_part_1.ipynb) | [colab](https://bit.ly/31bh51g) |
+|02|টোকেনাইজার এর আরও কিছু ব্যবহার | [lin k](./nlp/drive_into_tokenizer_part_2.ipynb) | [colab](https://bit.ly/3exnsjn) |
 
 ### ML data visualization
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
