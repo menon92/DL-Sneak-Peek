@@ -77,7 +77,7 @@ If anyone get helped reading this It would be grateful for me
 - [Engineering Practices for Software 2.0](https://www.youtube.com/watch?v=KJAnSyB6mME)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 
-### Other links
+### Miscellaneous
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
 - [37-reasons-why-your-neural-network-is-not-working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 - [https://cs231n.github.io/](https://cs231n.github.io/)
