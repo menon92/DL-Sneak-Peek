@@ -41,6 +41,9 @@ If anyone get helped reading this It would be grateful for me
 - [The Attention Mechanism](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 - [attention-mechanism](https://blog.floydhub.com/attention-mechanism/)
 
+### Transformers
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
 ### NLP
 - [Building models with tf.text (TF World '19)](https://youtu.be/iu_OSAg5slY)
 - [Natural Language Processing (NLP) Zero to Hero - Play list](https://goo.gle/nlp-z2h)
