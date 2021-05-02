@@ -80,6 +80,7 @@ If anyone get helped reading this It would be grateful for me
 - [Building the Software 2 0 Stack (Andrej Karpathy)](https://www.youtube.com/watch?v=y57wwucbXR8&t=83s)
 - [Engineering Practices for Software 2.0](https://www.youtube.com/watch?v=KJAnSyB6mME)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
+- [Machine Learning Interviews: Lessons from Both Sides - FSDL](https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit?usp=sharing)
 
 ### Miscellaneous
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
