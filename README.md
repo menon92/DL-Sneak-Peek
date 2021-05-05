@@ -82,6 +82,7 @@ If anyone get helped reading this It would be grateful for me
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 - [Machine Learning Interviews: Lessons from Both Sides - FSDL](https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit?usp=sharing)
 - [Machine Learning System Design (Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/)
+- [A Recipe for Training Neural Networks (Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
 
 ### Miscellaneous
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
