@@ -97,4 +97,5 @@ If anyone get helped reading this It would be grateful for me
 - [Tensorflow examples](https://github.com/aymericdamien/TensorFlow-Examples)
 - [TensorFlow Fall 2020 updates: Keynote & what’s new since TF2.2](https://www.youtube.com/watch?v=bUCciKeVx60&t=1395s)
 - [Explainable Ai](https://ex.pegg.io/)
+- [The NLP Index](https://index.quantumstat.com/)
 
