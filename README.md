@@ -83,6 +83,7 @@ If anyone get helped reading this It would be grateful for me
 - [Machine Learning Interviews: Lessons from Both Sides - FSDL](https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit?usp=sharing)
 - [Machine Learning System Design (Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [A Recipe for Training Neural Networks (Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
+- [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 
 ### Miscellaneous
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
