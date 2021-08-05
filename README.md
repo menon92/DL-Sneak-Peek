@@ -79,11 +79,13 @@ If anyone get helped reading this It would be grateful for me
 - [5 Steps to take your model in production](https://towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c)
 - [Building the Software 2 0 Stack (Andrej Karpathy)](https://www.youtube.com/watch?v=y57wwucbXR8&t=83s)
 - [Engineering Practices for Software 2.0](https://www.youtube.com/watch?v=KJAnSyB6mME)
-- [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 - [Machine Learning Interviews: Lessons from Both Sides - FSDL](https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit?usp=sharing)
 - [Machine Learning System Design (Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [A Recipe for Training Neural Networks (Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
 - [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+---
+- [CS 329S: Machine Learning Systems Design (chip huen)](https://stanford-cs329s.github.io/syllabus.html)
+- [ML Interview book (chip huen)](https://huyenchip.com/ml-interviews-book/)
 
 ### Miscellaneous
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
