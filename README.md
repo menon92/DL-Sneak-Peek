@@ -102,3 +102,7 @@ If anyone get helped reading this It would be grateful for me
 - [Explainable Ai](https://ex.pegg.io/)
 - [The NLP Index](https://index.quantumstat.com/)
 
+---
+### Books
+- [Deep Learning with Python (Chollet) 2nd Edition](https://www.manning.com/books/deep-learning-with-python-second-edition)
+
