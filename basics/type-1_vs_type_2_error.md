@@ -1,3 +1,5 @@
+#### Type 1, Type 2 error
+
 একটা বাইনারি ক্লাসিফায়ার চিন্তা করি 
 
 
@@ -9,5 +11,10 @@
 - `True Positive:` আসলেই পজিটিভ এবং মডেল ও পজেটিভ বলতেছে 
 - `True Negative:` আসলেই নেগেটিভ এবং মডেল ও নেগেটিভ বলতেছে 
 
+#### Visualization
+![](https://en.wikipedia.org/wiki/Precision_and_recall#/media/File:Precisionrecall.svg)
+
 ## Referances
 - [False_positives_and_false_negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives)
+- [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+- [precision-and-recall spam or not spam example](https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall)
