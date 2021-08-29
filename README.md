@@ -10,6 +10,7 @@ If anyone get helped reading this It would be grateful for me
 |02| গ্রাডিয়েন্ট-টেপ, হাইয়ার অডার ডেরিভেটিভ , গ্রাডিয়েন্ট-টেপের কিছু বিশেষ ব্যবহার | [link](./basics/dl_basics_part_2.ipynb) | x |
 |03| লিনিয়ার রিগ্রেসন, প্লট লার্নিং কার্ভ | [link](./basics/dl_basics_part_3.ipynb) | x |
 |04| সফটম্যাক্স ফাংশন কি এবং কেন কাজ করে | [link](./basics/dl_basics_part_4.ipynb) | x |
+|05| মেশিন লার্নিংয়ে টাইপ - ১ ও টাইপ - ২ এরর কি ? | [link](./basics/type-1_vs_type_2_error.md) | x |
 
 ### Deep learning (`Computer vision`)
 |Part|                             Topic                            | Git |  Colab |
