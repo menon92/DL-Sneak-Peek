@@ -12,7 +12,7 @@
 - `True Negative:` আসলেই নেগেটিভ এবং মডেল ও নেগেটিভ বলতেছে 
 
 #### Visualization
-![](https://en.wikipedia.org/wiki/Precision_and_recall#/media/File:Precisionrecall.svg)
+[Check the image from wiki](https://en.wikipedia.org/wiki/Precision_and_recall#/media/File:Precisionrecall.svg)
 
 ## Referances
 - [False_positives_and_false_negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives)
