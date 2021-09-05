@@ -4,7 +4,7 @@
 
 
 - `False Positive:` আসলে পজিটিভ না কিন্তু মডেল বলতেছে পজিটিভ (`Type - I error`)
-- `False Negative:` আসলে নেগেটিভ না কিন্তু মডেল বলতেছে পজেটিভ (`Type - II error`)
+- `False Negative:` আসলে নেগেটিভ না কিন্তু মডেল বলতেছে নেগেটিভ (`Type - II error`)
 
 --- 
 
