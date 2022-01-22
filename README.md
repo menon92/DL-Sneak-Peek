@@ -88,6 +88,7 @@ If anyone get helped reading this It would be grateful for me
 ---
 - [CS 329S: Machine Learning Systems Design (chip huen)](https://stanford-cs329s.github.io/syllabus.html)
 - [ML Interview book (chip huen)](https://huyenchip.com/ml-interviews-book/)
+- [Real time machine learning challenges and solution](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
 
 ### Miscellaneous
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
