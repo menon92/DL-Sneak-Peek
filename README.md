@@ -111,4 +111,5 @@ If anyone get helped reading this It would be grateful for me
 - [Deep Learning with Python (Chollet) 2nd Edition](https://www.manning.com/books/deep-learning-with-python-second-edition)
 - [Transfer Learning for NLP (Paul Azunre)](https://www.manning.com/books/transfer-learning-for-natural-language-processing)
 - [Speech and Language Processing by Daniel Jurafsky](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+- [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
 
