@@ -29,6 +29,11 @@ If anyone get helped reading this It would be grateful for me
 |01|টোকেনাইজার কি এবং এটার বিভিন্ন প্রয়োগ | [link](./nlp/drive_into_tokenizer_part_1.ipynb) | [colab](https://bit.ly/31bh51g) |
 |02|টোকেনাইজার এর আরও কিছু ব্যবহার | [lin k](./nlp/drive_into_tokenizer_part_2.ipynb) | [colab](https://bit.ly/3exnsjn) |
 
+### ML Ops
+|SL  |                             Topic                            | Link |
+|--- |--------------------------------------------------------------|----- |
+|01  | Rule of Machine Learning | [link](mlops/rules_of_ml.pdf) |
+
 ### ML data visualization
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
 - [Tensorboard guide for tensorflow 1.x](https://medium.com/analytics-vidhya/basics-of-using-tensorboard-in-tensorflow-1-2-b715b068ac5a)
