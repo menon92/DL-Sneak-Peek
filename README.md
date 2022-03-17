@@ -91,9 +91,10 @@ If anyone get helped reading this It would be grateful for me
 - [A Recipe for Training Neural Networks (Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
 - [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 ---
-- [CS 329S: Machine Learning Systems Design (chip huen)](https://stanford-cs329s.github.io/syllabus.html)
-- [ML Interview book (chip huen)](https://huyenchip.com/ml-interviews-book/)
-- [Real time machine learning challenges and solution](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
+- [CS 329S: Machine Learning Systems Design (Chip Huyen)](https://stanford-cs329s.github.io/syllabus.html)
+- [ML Interview book (chip Huyen)](https://huyenchip.com/ml-interviews-book/)
+- [Real Time Machine Learning Challenges and Solution (Chip Huyen)](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
+- [Data Distributio Shifts and monittorig (Chip Huyen) ](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html)
 
 ### Miscellaneous
 - [data-science-with-dl-nlp-advanced-techniques](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
