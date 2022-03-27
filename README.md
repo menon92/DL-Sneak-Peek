@@ -118,6 +118,6 @@ If anyone get helped reading this It would be grateful for me
 - [Speech and Language Processing by Daniel Jurafsky](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
 - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
 - [Dive into deep learning](https://d2l.ai/index.html)
-- [Natural Language Processing with Transformers
-](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/)
+- [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/)
+- [Designing Machine Learning Systems](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
