@@ -66,7 +66,6 @@ If anyone get helped reading this It would be grateful for me
 - [Deep learing by stanford](https://stanford.edu/~shervine/teaching/cs-230/)
 - [MIT deep learning lecture](http://introtodeeplearning.com/)
 - [Kaggle free data science course](https://www.kaggle.com/learn/overview)
-- [Drive into deep learning, d2l.ai](http://d2l.ai/index.html)
 - [Intro to deep learning kaggle mini course](https://www.kaggle.com/learn/intro-to-deep-learning)
 
 ### Bangla ML/DL resource:
@@ -118,4 +117,7 @@ If anyone get helped reading this It would be grateful for me
 - [Transfer Learning for NLP (Paul Azunre)](https://www.manning.com/books/transfer-learning-for-natural-language-processing)
 - [Speech and Language Processing by Daniel Jurafsky](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
 - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
+- [Dive into deep learning](https://d2l.ai/index.html)
+- [Natural Language Processing with Transformers
+](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/)
 
