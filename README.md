@@ -110,6 +110,7 @@ If anyone get helped reading this It would be grateful for me
 - [Explainable Ai](https://ex.pegg.io/)
 - [The NLP Index](https://index.quantumstat.com/)
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+- [Beam search, How it works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)
 
 ---
 ### Books
