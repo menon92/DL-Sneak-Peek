@@ -111,6 +111,7 @@ If anyone get helped reading this It would be grateful for me
 - [The NLP Index](https://index.quantumstat.com/)
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 - [Beam search, How it works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)
+- [Nvidia tao toolkit for developer]()https://developer.nvidia.com/tao-toolkit
 
 ---
 ### Books
