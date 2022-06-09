@@ -34,6 +34,7 @@ If anyone get helped reading this It would be grateful for me
 |--- |--------------------------------------------------------------|----- |
 |01  | Rule of Machine Learning | [link](mlops/rules_of_ml.pdf) |
 |02  | MLOPS 101: Tips, Tricks and Best Practices- Vladimir Osin PyData Eindhoven 2021 | [link](https://www.youtube.com/watch?v=dzSp3Zf897g)|
+|03  | Hands on MLOps using CML tool | [link](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) |
 
 ### ML data visualization
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
