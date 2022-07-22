@@ -64,6 +64,7 @@ If anyone get helped reading this It would be grateful for me
 ### ML/DL course
 - [Intro to tensorflow for deeplearning (Udacity)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 - [Software engineering with ML (udacity)](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 - [Deep learing by stanford - CS230](https://stanford.edu/~shervine/teaching/cs-230/)
 - [MIT deep learning lecture](http://introtodeeplearning.com/)
