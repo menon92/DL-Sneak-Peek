@@ -61,15 +61,15 @@ If anyone get helped reading this It would be grateful for me
 - [Google dataset search](https://datasetsearch.research.google.com/)
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
-### ML/DL course
+### Courses
 - [Intro to tensorflow for deeplearning (Udacity)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 - [Software engineering with ML (udacity)](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 - [Deep learing by stanford - CS230](https://stanford.edu/~shervine/teaching/cs-230/)
 - [MIT deep learning lecture](http://introtodeeplearning.com/)
-- [Kaggle free data science course](https://www.kaggle.com/learn/overview)
 - [Intro to deep learning kaggle mini course](https://www.kaggle.com/learn/intro-to-deep-learning)
+- [Kaggle free data science course](https://www.kaggle.com/learn/overview)
 
 ### Bangla ML/DL resource:
 - [হাতেকলমে পাইথন ডিপ লার্নিং](https://github.com/raqueeb)
@@ -87,13 +87,13 @@ If anyone get helped reading this It would be grateful for me
 - [Rules of ML by google](https://developers.google.com/machine-learning/guides/rules-of-ml)
 - [5 Steps to take your model in production](https://towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c)
 - [Building the Software 2 0 Stack (Andrej Karpathy)](https://www.youtube.com/watch?v=y57wwucbXR8&t=83s)
-- [Engineering Practices for Software 2.0](https://www.youtube.com/watch?v=KJAnSyB6mME)
+- [A Recipe for Training Neural Networks (Andrej Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
+- [Engineering Practices for Software 2.0 (PyTorch Developer Conference)](https://www.youtube.com/watch?v=KJAnSyB6mME)
 - [Machine Learning Interviews: Lessons from Both Sides - FSDL](https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit?usp=sharing)
-- [Machine Learning System Design (Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
-- [A Recipe for Training Neural Networks (Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
 - [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 ---
-- [CS 329S: Machine Learning Systems Design (Chip Huyen)](https://stanford-cs329s.github.io/syllabus.html)
+- [Machine Learning System Design (Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
+- [Machine Learning Systems Design (Chip Huyen) CS 329S](https://stanford-cs329s.github.io/syllabus.html)
 - [ML Interview book (chip Huyen)](https://huyenchip.com/ml-interviews-book/)
 - [Real Time Machine Learning Challenges and Solution (Chip Huyen)](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
 - [Data Distributio Shifts and monittorig (Chip Huyen) ](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html)
