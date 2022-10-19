@@ -64,6 +64,7 @@ If anyone get helped reading this It would be grateful for me
 
 ### Courses
 - [Intro to tensorflow for deeplearning (Udacity)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Full stack deeplearning](https://fullstackdeeplearning.com/course/)
 - [Software engineering with ML (udacity)](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
