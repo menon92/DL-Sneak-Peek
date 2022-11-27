@@ -54,6 +54,10 @@ If anyone get helped reading this It would be grateful for me
 ### Transformers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
+### The loss functions
+- [Transducer](https://lorenlugosch.github.io/posts/2020/11/transducer/)
+- [Connectionist Temporal Classification (CTC)](https://distill.pub/2017/ctc/)
+
 ### NLP
 - [Building models with tf.text (TF World '19)](https://youtu.be/iu_OSAg5slY)
 - [Natural Language Processing (NLP) Zero to Hero - Play list](https://goo.gle/nlp-z2h)
