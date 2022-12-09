@@ -23,6 +23,12 @@ If anyone get helped reading this It would be grateful for me
 |07| ফ্লাওয়ার ইমেজ ক্লাসিফিকেশন, সাবক্লাস মডেল, tf.keras.utils.Sequence | [link](./vision/dl_computer_vision_part_6.ipynb)|[colab](https://colab.research.google.com/drive/11f0B03QGshbNCiUhmrlYggxoqfx1qkfk?usp=sharing)|
 |08| কাস্টম লেয়ার কি ? কিভাবে কাস্টম লেয়ার  ডিজাইন করতে হয়| [link](./Writting_custom_layer.ipynb) | X |
 
+### Audio
+|Part|                             Topic                            |Git   |Colab    |
+|--- |--------------------------------------------------------------|:----:|:--------:|
+|01| অডিও ফাইল রিড, ফিচার(MFCC, STFT) ভিজুয়ালাইজ | [link]() | [colab](https://bit.ly/3VIZEP7) |
+
+
 ### Deep learning (`NLP`)
 |Part|                             Topic                            |Git   |Colab    |
 |--- |--------------------------------------------------------------|:----:|:--------:|
