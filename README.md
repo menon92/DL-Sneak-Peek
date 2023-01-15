@@ -27,7 +27,7 @@ If anyone get helped reading this It would be grateful for me
 |Part|                             Topic                            |Git   |Colab    |
 |--- |--------------------------------------------------------------|:----:|:--------:|
 |01| অডিও ফাইল রিড, ফিচার(FT, STFT, Spectrogram, MFCC) ভিজুয়ালাইজ | [link](./audio/audio_feature_visualization.ipynb) | [colab](https://bit.ly/3VIZEP7) |
-
+|02| স্পিচ টু টেক্সট সিস্টেম ডিজাইন এ কেন আমরা স্পেক্টোগ্রাম ব্যবহার করি? | [link](https://www.linkedin.com/post/edit/7019349990099603456/)| - |
 
 ### Deep learning (`NLP`)
 |Part|                             Topic                            |Git   |Colab    |
