@@ -26,7 +26,7 @@ If anyone get helped reading this It would be grateful for me
 ### Audio
 |Part|                             Topic                            |Git   |Colab    |
 |--- |--------------------------------------------------------------|:----:|:--------:|
-|01| অডিও ফাইল রিড, ফিচার(MFCC, STFT) ভিজুয়ালাইজ | [link](./audio/audio_feature_visualization.ipynb) | [colab](https://bit.ly/3VIZEP7) |
+|01| অডিও ফাইল রিড, ফিচার(FT, STFT, Spectrogram, MFCC) ভিজুয়ালাইজ | [link](./audio/audio_feature_visualization.ipynb) | [colab](https://bit.ly/3VIZEP7) |
 
 
 ### Deep learning (`NLP`)
