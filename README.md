@@ -3,7 +3,7 @@ I try to explain various important terms of deep learning and machine learning.
 I will write this sort of tutorial for helping myself to build a clear understanding.
 If anyone get helped reading this It would be grateful for me
 
-### Deep learning (`Basics`)
+### Basics
 |Part|                             Topic                            | Git |  Colab |
 |--- |--------------------------------------------------------------|---- |--------|
 |01| টেন্সরফ্লোর প্রথমিক ধারনা, টেন্সর, কিছু ম্যাথ অপারেশন  | [link](./basics/dl_basics_part_1.ipynb) | x |
@@ -12,7 +12,7 @@ If anyone get helped reading this It would be grateful for me
 |04| সফটম্যাক্স ফাংশন কি এবং কেন কাজ করে | [link](./basics/dl_basics_part_4.ipynb) | x |
 |05| মেশিন লার্নিংয়ে টাইপ - ১ ও টাইপ - ২ এরর কি ? | [link](./basics/type-1_vs_type_2_error.md) | x |
 
-### Deep learning (`Computer vision`)
+### Computer vision
 |Part|                             Topic                            | Git |  Colab |
 |--- |--------------------------------------------------------------|---- |--------|
 |01| ইমেজ ডাটা লোডিং, ফ্লাওয়ার ডাটাসেট, প্লট ইমেজ | [link](./vision/dl_computer_vision_part_1.ipynb) | [colab](https://bit.ly/2WEzPUe)|
@@ -23,14 +23,14 @@ If anyone get helped reading this It would be grateful for me
 |07| ফ্লাওয়ার ইমেজ ক্লাসিফিকেশন, সাবক্লাস মডেল, tf.keras.utils.Sequence | [link](./vision/dl_computer_vision_part_6.ipynb)|[colab](https://colab.research.google.com/drive/11f0B03QGshbNCiUhmrlYggxoqfx1qkfk?usp=sharing)|
 |08| কাস্টম লেয়ার কি ? কিভাবে কাস্টম লেয়ার  ডিজাইন করতে হয়| [link](./Writting_custom_layer.ipynb) | X |
 
-### Audio
+### Audio / Speech
 |Part|                             Topic                            |Git   |Colab    |
 |--- |--------------------------------------------------------------|:----:|:--------:|
 |01| অডিও ফাইল রিড, ফিচার(FT, STFT, Spectrogram, MFCC) ভিজুয়ালাইজ | [link](./audio/audio_feature_visualization.ipynb) | [colab](https://bit.ly/3VIZEP7) |
 |02| স্পিচ টু টেক্সট সিস্টেম ডিজাইন এ কেন আমরা স্পেক্টোগ্রাম ব্যবহার করি? | [link](https://www.linkedin.com/post/edit/7019349990099603456/)| - |
 |03| অডিও কোডেক, নিউরাল অডিও কোডেক, এবং ডিপ লার্নিং | [link](https://www.linkedin.com/pulse/audio-codec-how-we-use-deep-learning-mehadi-hasan-menon-8nqmc/?trackingId=Fj1iJgx%2BTRmDx2A52UyXtw%3D%3D)| - |
 
-### LLMs
+### Large Language Models (LLMs)
 |Part|                             Topic                            |Link    |
 |--- |--------------------------------------------------------------|--------|
 |01|২ বিট কোয়ান্টাইজেশন কি? এটা কি ভাবে কাজ করে? | [link](https://www.linkedin.com/pulse/llm-%25E0%25A7%25A8-%25E0%25A6%25AC%25E0%25A6%259F-%25E0%25A6%2595%25E0%25A6%25AF%25E0%25A6%25A8%25E0%25A6%259F%25E0%25A6%2587%25E0%25A6%259C%25E0%25A6%25B6%25E0%25A6%25A8-%25E0%25A6%2595-%25E0%25A6%258F%25E0%25A6%259F-%25E0%25A6%25AD%25E0%25A6%25AC-%25E0%25A6%2595%25E0%25A6%259C-%25E0%25A6%2595%25E0%25A6%25B0-mehadi-hasan-menon-163ac/?trackingId=Fj1iJgx%2BTRmDx2A52UyXtw%3D%3D)|
@@ -38,7 +38,7 @@ If anyone get helped reading this It would be grateful for me
 |02|LLM ফাইন-টিউন এ LoRA কেন দরকার এবং এটা কিভাবে কাজ করে?|[link](./llm/What%20is%20PEFT%20and%20how%20LoRA%20works.md)|
 
 
-### Deep learning (`NLP`)
+### Natural Language Processing (NLP)
 |Part|                             Topic                            |Git   |Colab    |
 |--- |--------------------------------------------------------------|:----:|:--------:|
 |01|টোকেনাইজার কি এবং এটার বিভিন্ন প্রয়োগ | [link](./nlp/drive_into_tokenizer_part_1.ipynb) | [colab](https://bit.ly/31bh51g) |
