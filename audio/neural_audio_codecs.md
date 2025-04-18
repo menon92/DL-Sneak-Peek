@@ -87,8 +87,8 @@ $$
 এটি বিশেষভাবে উপকারী:
 
 - **কম্প্রেশন** এর জন্য (ব্যান্ডউইথ/বাইটরেট কমানোর জন্য)
-- **অডিও ল্যাঙ্গুয়েজ মডেল ট্রেনিং** এর জন্য (যেমন AudioLM, EnCodec)
-- **ডিসক্রিট রিপ্রেজেন্টেশন লার্নিং** এর জন্য (যেমন VQ-VAE)
+- **অডিও ল্যাঙ্গুয়েজ মডেল ট্রেনিং** এর জন্য (যেমন [AudioLM](https://research.google/blog/audiolm-a-language-modeling-approach-to-audio-generation/), [EnCodec](https://github.com/facebookresearch/encodec))
+- **ডিসক্রিট রিপ্রেজেন্টেশন লার্নিং** এর জন্য (যেমন [VQ-VAE](https://arxiv.org/abs/1711.00937v2))
 
 ---
 
@@ -130,3 +130,4 @@ Decoder | tokens | reconstructed waveform | মূল অডিওর কাছ�
 - [Audio Codec](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tts/models.html#audio-codec)
 - [Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/abs/2401.14732)
 - [Audio tokenization](https://ravinkumar.com/GenAiGuidebook/audio/audio_tokenization_in_practice.html)
+- [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937v2)
