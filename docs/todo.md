@@ -1,3 +1,3 @@
-- [ ] How neural audio codecs works
+- [x] How neural audio codecs works
 - [ ] What is force alignment. Application and how it works
 - [ ] How speaker diarization works
