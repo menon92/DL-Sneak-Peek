@@ -131,3 +131,4 @@ Decoder | tokens | reconstructed waveform | মূল অডিওর কাছ�
 - [Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/abs/2401.14732)
 - [Audio tokenization](https://ravinkumar.com/GenAiGuidebook/audio/audio_tokenization_in_practice.html)
 - [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937v2)
+- [Calculating the Distance Between Two Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied/)
