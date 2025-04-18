@@ -1,4 +1,6 @@
-![](./img/audiocodec_model.png)
+
+<img src="./img/audiocodec_model.png" alt="Neural Audio Codec" width="980" height="620">
+
 [Image source](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tts/models.html#audio-codec)
 
 স্পিচ টু স্পিচ LLM এর অন্যতম গুরুত্বপূর্ণ একটা অংশ হলো [অডিও কে টোকেনাইজ](https://ravinkumar.com/GenAiGuidebook/audio/audio_tokenization.html#semantic-tokens) করা। অডিও কে টোকেনাইজ করা হয় নিউরাল অডিও কোডেক এর মাধ্যমে। এখানে আমরা দেখবো কিভাবে  নিউরাল অডিও কোডেক কাজ করে. উপরে আমরা যে ছবি দেখতে পাচ্ছি এটা উরাল অডিও কোডেক এর হাই-লেভেল আর্কিটেকচার। এই আর্কিটেকচার এর বিভিন্ন অংশগুলো কিভাবে কাজ করে সেটা বোঝার চেষ্টা করব।
