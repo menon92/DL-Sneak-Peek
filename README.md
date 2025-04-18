@@ -29,6 +29,7 @@ If anyone get helped reading this It would be grateful for me
 |01| অডিও ফাইল রিড, ফিচার(FT, STFT, Spectrogram, MFCC) ভিজুয়ালাইজ | [link](./audio/audio_feature_visualization.ipynb) | [colab](https://bit.ly/3VIZEP7) |
 |02| স্পিচ টু টেক্সট সিস্টেম ডিজাইন এ কেন আমরা স্পেক্টোগ্রাম ব্যবহার করি? | [link](https://www.linkedin.com/post/edit/7019349990099603456/)| - |
 |03| অডিও কোডেক, নিউরাল অডিও কোডেক, এবং ডিপ লার্নিং | [link](https://www.linkedin.com/pulse/audio-codec-how-we-use-deep-learning-mehadi-hasan-menon-8nqmc/?trackingId=Fj1iJgx%2BTRmDx2A52UyXtw%3D%3D)| - |
+|04| নিউরাল অডিও কোডেক কিভাবে কাজ করে। স্পিচ টু স্পিচ LLM এ এটা কেন গুরুত্বপূর্ণ? | [link](./audio/neural_audio_codecs.md) | - |
 
 ### Large Language Models (LLMs)
 |Part|                             Topic                            |Link    |
