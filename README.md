@@ -20,8 +20,8 @@ If anyone get helped reading this It would be grateful for me
 |03| ইমেজ ডাটা পাইপলাইন, tf.data , map ফাংশনের ব্যাবহার | [link](./vision/dl_computer_vision_part_3.ipynb) | [colab](https://bit.ly/2AF3zYy) |
 |04| tf.data ও ImageDataGenerator এর মধ্যে তুলনা, ট্রেনিং টাইম স্পীড আপ করা, ডাটা ক্যাশিং | [link](./vision/dl_computer_vision_part_4.ipynb)|[colab](https://bit.ly/2ZqZzW3)
 |05| ইমেজ ডাটা পাইপলাইন tf.keras.utils.Sequence | [link](./vision/dl_computer_vision_part_5.ipynb) | [colab](https://colab.research.google.com/drive/12ACmzAawasOq_lEJU23s0DatOe8Qx9W2?usp=sharing)|
-|07| ফ্লাওয়ার ইমেজ ক্লাসিফিকেশন, সাবক্লাস মডেল, tf.keras.utils.Sequence | [link](./vision/dl_computer_vision_part_6.ipynb)|[colab](https://colab.research.google.com/drive/11f0B03QGshbNCiUhmrlYggxoqfx1qkfk?usp=sharing)|
-|08| কাস্টম লেয়ার কি ? কিভাবে কাস্টম লেয়ার  ডিজাইন করতে হয়| [link](./Writting_custom_layer.ipynb) | X |
+|06| ফ্লাওয়ার ইমেজ ক্লাসিফিকেশন, সাবক্লাস মডেল, tf.keras.utils.Sequence | [link](./vision/dl_computer_vision_part_6.ipynb)|[colab](https://colab.research.google.com/drive/11f0B03QGshbNCiUhmrlYggxoqfx1qkfk?usp=sharing)|
+|07| কাস্টম লেয়ার কি ? কিভাবে কাস্টম লেয়ার  ডিজাইন করতে হয়| [link](./Writting_custom_layer.ipynb) | X |
 
 ### Audio / Speech
 |Part|                             Topic                            |Git   |Colab    |
@@ -36,7 +36,7 @@ If anyone get helped reading this It would be grateful for me
 |--- |--------------------------------------------------------------|--------|
 |01|২ বিট কোয়ান্টাইজেশন কি? এটা কি ভাবে কাজ করে? | [link](https://www.linkedin.com/pulse/llm-%25E0%25A7%25A8-%25E0%25A6%25AC%25E0%25A6%259F-%25E0%25A6%2595%25E0%25A6%25AF%25E0%25A6%25A8%25E0%25A6%259F%25E0%25A6%2587%25E0%25A6%259C%25E0%25A6%25B6%25E0%25A6%25A8-%25E0%25A6%2595-%25E0%25A6%258F%25E0%25A6%259F-%25E0%25A6%25AD%25E0%25A6%25AC-%25E0%25A6%2595%25E0%25A6%259C-%25E0%25A6%2595%25E0%25A6%25B0-mehadi-hasan-menon-163ac/?trackingId=Fj1iJgx%2BTRmDx2A52UyXtw%3D%3D)|
 |02|Model Alignment, Prompting, and In-Context Learning | [link](https://www.linkedin.com/pulse/llm-model-alignment-prompting-in-context-learning-mehadi-hasan-menon-a4swc/?trackingId=Fj1iJgx%2BTRmDx2A52UyXtw%3D%3D)|
-|02|LLM ফাইন-টিউন এ LoRA কেন দরকার এবং এটা কিভাবে কাজ করে?|[link](./llm/What%20is%20PEFT%20and%20how%20LoRA%20works.md)|
+|03|LLM ফাইন-টিউন এ LoRA কেন দরকার এবং এটা কিভাবে কাজ করে?|[link](./llm/What%20is%20PEFT%20and%20how%20LoRA%20works.md)|
 
 
 ### Natural Language Processing (NLP)
