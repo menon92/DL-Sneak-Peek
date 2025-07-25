@@ -31,6 +31,9 @@ If anyone get helped reading this It would be grateful for me
 |03| অডিও কোডেক, নিউরাল অডিও কোডেক, এবং ডিপ লার্নিং | [link](https://www.linkedin.com/pulse/audio-codec-how-we-use-deep-learning-mehadi-hasan-menon-8nqmc/?trackingId=Fj1iJgx%2BTRmDx2A52UyXtw%3D%3D)| - |
 |04| নিউরাল অডিও কোডেক কিভাবে কাজ করে। স্পিচ টু স্পিচ LLM এ এটা কেন গুরুত্বপূর্ণ? | [link](./audio/neural_audio_codecs.md) | - |
 
+- [How force alignment works given audio and transcription](https://research.nvidia.com/labs/conv-ai/blogs/2023/2023-08-forced-alignment/)
+
+
 ### Large Language Models (LLMs)
 |Part|                             Topic                            |Link    |
 |--- |--------------------------------------------------------------|--------|
