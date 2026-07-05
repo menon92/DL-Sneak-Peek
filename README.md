@@ -61,6 +61,12 @@ If anyone get helped reading this It would be grateful for me
 |03  | Hands on MLOps using CML tool | [link](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) |
 |04  | ML development process | [link](mlops/ML-model-dev.drawio.png)
 
+### Engineering and leading
+
+- [5 Tips for Being an Effective Tech Lead](https://medium.com/featured-insights/5-tips-for-being-an-effective-tech-lead-7ec36391de34)
+- 
+
+
 ### ML data visualization
 - [https://github.com/PAIR-code/facets](https://github.com/PAIR-code/facets)
 - [Tensorboard guide for tensorflow 1.x](https://medium.com/analytics-vidhya/basics-of-using-tensorboard-in-tensorflow-1-2-b715b068ac5a)
